@@ -1,6 +1,6 @@
 <!-- BANNER-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/banner.png" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/banner_top.png" alt="banner"/>
 </p>
 
 ---
