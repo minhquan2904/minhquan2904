@@ -46,8 +46,8 @@
     <td width="45%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/banner.png" width="100%" style="border-radius:15px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
       <br/>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/metrics.plugin.reactions.svg" width="100%"/>
+      <a href="https://github.com/minhquan2904">
+        <img src="https://github-readme-stats.vercel.app/api?username=minhquan2904&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333" width="100%" alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
