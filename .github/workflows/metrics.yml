@@ -61,7 +61,6 @@ jobs:
             Bui Minh Quan,
             minhquan2904@outlook.com,
             quanbm@users.noreply.github.com
-          
 
       # Commit
       - name: Commit generated metrics
