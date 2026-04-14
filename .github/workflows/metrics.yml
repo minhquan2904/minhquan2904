@@ -37,11 +37,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: svg/metrics.plugin.wakatime.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.METRICS_TOKEN }}
 
       # 4) Languages activity
       - uses: lowlighter/metrics@latest
