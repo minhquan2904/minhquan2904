@@ -71,7 +71,7 @@
 
 ## 💼 Experience
 
-### **.NET Team Leader** @ **VNPAY** _(04/2022 – Present)_
+### **.NET Team Leader** @ **VNPAY** _(04/2022 – 04/2026)_
 
 - **System Architecture & Development:** Led a 6-member hands-on team to architect and deploy 10+ digital banking projects utilizing **.NET Core, Angular, and Oracle**. Delivered highly scalable BackOffice systems for Mobile Banking and Omni-channel platforms (Eximbank eDigi, VietCredit, Vietbank SME).
 - **Legacy Modernization:** Spearheaded the upgrade of legacy .NET MVC systems to modern .NET Core & Angular architectures for key clients, significantly enhancing maintainability and UI/UX.
