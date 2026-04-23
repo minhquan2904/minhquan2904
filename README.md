@@ -61,16 +61,9 @@
   <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/metrics.plugin.isocalendar.svg" width="100%" alt="Contributions Calendar"/>
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/metrics.plugin.languages.indepth.svg" width="100%" alt="Top Languages"/>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/metrics.plugin.wakatime.svg" width="100%" alt="WakaTime Stats"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/metrics.plugin.languages.indepth.svg" width="100%" alt="Top Languages"/>
+</div>
 
 ## 💼 Experience
 
