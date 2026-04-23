@@ -19,6 +19,9 @@
   <a href="https://minhquan2904.github.io/">
     <img src="https://img.shields.io/badge/Digital_Garden-minhquan2904.github.io-0F172A?style=for-the-badge&logo=gitbook&logoColor=white" alt="Digital Garden"/>
   </a>
+  <a href="https://github.com/minhquan2904/llm-wiki">
+    <img src="https://img.shields.io/badge/Second_Brain-llm--wiki-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Second Brain"/>
+  </a>
 
 </div>
 
@@ -92,3 +95,4 @@
 | [**AI-Powered Bank Statement Analyzer**](https://github.com/minhquan2904/vibe-check-scam) | Rapidly prototyped a fraud detection tool utilizing pure "vibe coding" methodologies. Authored precise system contexts via OpenSpec and orchestrated Antigravity Kit agents to autonomously generate logic. | `AI` `Prompt Engineering`  |
 | **Tech Content Creator** ([TikTok](https://tiktok.com/@motbannamgiauten71))               | Built an automated content production pipeline leveraging Gemini and NotebookLM to generate educational programming videos. Mentoring junior developers with 80/20 rule-based lessons.                      | `Content Pipeline` `GenAI` |
 | [**Digital Garden**](https://minhquan2904.github.io/)                                     | My personal knowledge base and technical blog where I document learnings about Software Engineering, System Architecture, and AI tools.                                                                     | `Documentation` `MkDocs`   |
+| [**LLM Wiki (Second Brain)**](https://github.com/minhquan2904/llm-wiki)                   | Đây là kho tri thức cá nhân / second brain được quản lý và vận hành bởi AI agents.                                                                                                                          | `Knowledge Base` `AI`      |
