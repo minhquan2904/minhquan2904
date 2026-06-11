@@ -27,15 +27,15 @@
 
 ## 👋 About Me
 
-**Bùi Minh Quân** — Results-oriented **Full-Stack .NET Team Leader** with over 6 years of experience architecting and delivering scalable back-office systems for the banking sector. I am passionate about driving engineering efficiency by pioneering **AI-driven development workflows**, leveraging OpenSpec and Antigravity Kit to orchestrate autonomous agents.
+**Bùi Minh Quân** — **Lead Software Engineer** at **Zalo (Fiza)** with over 7 years of experience building scalable systems for the banking & fintech sector. Previously led a full-stack .NET team delivering digital banking platforms at VNPAY; now working with **Java & ReactJS**. Passionate about driving engineering efficiency by pioneering **AI-driven development workflows**, leveraging OpenSpec and Antigravity Kit to orchestrate autonomous agents.
 
 <table>
   <tr>
     <td width="55%" valign="top">
       <h3>🚀 Core Competencies</h3>
       <ul>
-        <li><b>Backend:</b> .NET Core, .NET Framework, EF Core</li>
-        <li><b>Frontend:</b> Angular, TypeScript, JavaScript</li>
+        <li><b>Backend:</b> Java, .NET Core, .NET Framework, EF Core</li>
+        <li><b>Frontend:</b> ReactJS, Angular, TypeScript, JavaScript</li>
         <li><b>Database:</b> Oracle SQL (Query Optimization & Performance Tuning), PostgreSQL</li>
         <li><b>DevOps & Infra:</b> Docker, Kubernetes, OpenShift, GitLab CI, IIS</li>
         <li><b>AI & Automation:</b> OpenSpec, Antigravity Kit, n8n (Workflow Automation)</li>
@@ -66,6 +66,10 @@
 </div>
 
 ## 💼 Experience
+
+### **Lead Software Engineer** @ **Zalo (Fiza)** _(05/2026 – Present)_
+
+- Building and scaling fintech products on the Zalo ecosystem with **Java & ReactJS**.
 
 ### **.NET Team Leader** @ **VNPAY** _(04/2022 – 04/2026)_
 
