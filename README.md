@@ -1,95 +1,66 @@
-<!-- BANNER-->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/banner_top.png" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/banner_top.png" alt="Snowfox banner for Bùi Minh Quân" />
 </p>
 
----
+# Bùi Minh Quân
 
-<div align="center" style="margin: 30px 0; gap: 10px; display: flex; justify-content: center; flex-wrap: wrap;">
+**Lead Software Engineer at Zalo · Fiza**
 
-  <a href="mailto:minhquan2904@outlook.com">
-    <img src="https://img.shields.io/badge/Email-minhquan2904%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/quanbmspk/">
-    <img src="https://img.shields.io/badge/LinkedIn-quanbmspk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tiktok.com/@motbannamgiauten71">
-    <img src="https://img.shields.io/badge/TikTok-@motbannamgiauten71-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://minhquan2904.github.io/">
-    <img src="https://img.shields.io/badge/Digital_Garden-minhquan2904.github.io-0F172A?style=for-the-badge&logo=gitbook&logoColor=white" alt="Digital Garden"/>
-  </a>
-  <a href="https://github.com/minhquan2904/llm-wiki">
-    <img src="https://img.shields.io/badge/Second_Brain-llm--wiki-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Second Brain"/>
-  </a>
+Hands-on technical lead building financial services for BFSI partners through Zalo Mini Apps and admin portals. I work with Spring Boot and ReactJS, apply AI across the full software development lifecycle, and help product and engineering teams turn those practices into reusable workflows.
 
+[LinkedIn](https://www.linkedin.com/in/quanbmspk/) · [Digital Garden](https://minhquan2904.github.io/) · [Second Brain](https://github.com/minhquan2904/llm-wiki) · [TikTok](https://tiktok.com/@motbannamgiauten71) · [Email](mailto:minhquan2904@outlook.com)
+
+## Current focus
+
+- **Product engineering:** Java, Spring Boot, ReactJS
+- **AI-driven SDLC:** Requirements through production
+- **Cross-functional enablement:** Product and engineering workflows
+- **Automation and tooling:** n8n
+
+## Experience
+
+### Lead Software Engineer · Zalo — Fiza
+
+_May 2026 – Present_
+
+- Build and ship end-to-end features for BFSI partners across Zalo Mini Apps and admin portals using Spring Boot and ReactJS.
+- Apply AI throughout the SDLC—from requirements and design through implementation, testing, code review, documentation, and production delivery.
+- Advance AI-assisted engineering by reviewing usage, refining workflows, guiding new adopters, and improving codebases.
+- Support product and engineering teams in operationalizing AI workflows, including brief and PRD creation for live projects.
+
+### .NET Team Leader · VNPAY
+
+_Apr 2022 – Apr 2026_
+
+- Led a hands-on full-stack team delivering digital-banking platforms with .NET Core, Angular, and Oracle.
+- Designed back-office systems for mobile-banking and omnichannel products, including Eximbank eDigi, VietCredit, and Vietbank SME.
+- Modernized legacy applications and introduced AI-assisted development practices and n8n workflow automation.
+
+### .NET Developer · VNPAY
+
+_May 2019 – Apr 2022_
+
+- Built and maintained banking back-office systems and landing pages using .NET Core/MVC, AngularJS, and Oracle.
+
+### C++ Developer · Shinhan DS
+
+_Aug 2018 – Mar 2019_
+
+- Trained in and contributed to core-banking development using C++ and Oracle.
+
+## Knowledge & experiments
+
+- [**Digital Garden**](https://minhquan2904.github.io/) — Notes on software engineering, system architecture, and applied AI.
+- [**LLM Wiki**](https://github.com/minhquan2904/llm-wiki) — A personal second brain maintained with AI-assisted knowledge workflows.
+- [**Tech Content**](https://tiktok.com/@motbannamgiauten71) — Practical programming lessons and experiments in AI-assisted content creation.
+
+## GitHub activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/metrics.plugin.isocalendar.svg" width="100%" alt="GitHub contribution calendar" />
 </div>
 
-## 👋 About Me
+## Education
 
-**Bùi Minh Quân** — **Lead Software Engineer** at **Zalo (Fiza)** with over 7 years of experience building scalable systems for the banking & fintech sector. Previously led a full-stack .NET team delivering digital banking platforms at VNPAY; now working with **Java & ReactJS**. Passionate about driving engineering efficiency by pioneering **AI-driven development workflows**, leveraging OpenSpec and Antigravity Kit to orchestrate autonomous agents.
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Core Competencies</h3>
-      <ul>
-        <li><b>Backend:</b> Java, .NET Core, .NET Framework, EF Core</li>
-        <li><b>Frontend:</b> ReactJS, Angular, TypeScript, JavaScript</li>
-        <li><b>Database:</b> Oracle SQL (Query Optimization & Performance Tuning), PostgreSQL</li>
-        <li><b>DevOps & Infra:</b> Docker, Kubernetes, OpenShift, GitLab CI, IIS</li>
-        <li><b>AI & Automation:</b> OpenSpec, Antigravity Kit, n8n (Workflow Automation)</li>
-      </ul>
-      <h3>🎓 Education & Certifications</h3>
-      <ul>
-        <li><b>B.S. in Software Engineering</b> - HCMC University of Technology and Engineering (GPA: 3.28/4.0)</li>
-        <li><b>Certifications:</b> Enhancing Management Capacity for Middle Managers (PTI), DISC Personality Framework</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/banner.png" width="100%" style="border-radius:15px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-      <br/>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/metrics.plugin.reactions.svg" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
-## 📊 GitHub Analytics
-
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/metrics.plugin.isocalendar.svg" width="100%" alt="Contributions Calendar"/>
-</div>
-
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/minhquan2904/minhquan2904/main/svg/metrics.plugin.languages.indepth.svg" width="100%" alt="Top Languages"/>
-</div>
-
-## 💼 Experience
-
-### **Lead Software Engineer** @ **Zalo (Fiza)** _(05/2026 – Present)_
-
-- Building and scaling fintech products on the Zalo ecosystem with **Java & ReactJS**.
-
-### **.NET Team Leader** @ **VNPAY** _(04/2022 – 04/2026)_
-
-- **System Architecture & Development:** Led a 6-member hands-on team to architect and deploy 10+ digital banking projects utilizing **.NET Core, Angular, and Oracle**. Delivered highly scalable BackOffice systems for Mobile Banking and Omni-channel platforms (Eximbank eDigi, VietCredit, Vietbank SME).
-- **Legacy Modernization:** Spearheaded the upgrade of legacy .NET MVC systems to modern .NET Core & Angular architectures for key clients, significantly enhancing maintainability and UI/UX.
-- **AI-Driven Engineering & Automation:** Pioneered the integration of AI into the software development lifecycle using **OpenSpec** and **Antigravity Kit**. Streamlined daily operations with **n8n** for automated sprint reporting and team scheduling.
-
-### **.NET Developer** @ **VNPAY** _(05/2019 – 04/2022)_
-
-- Built and maintained back-office systems and landing pages for major banking clients (SaigonBank, HDBank, etc.) using .NET Core/MVC, AngularJS, and Oracle.
-
-### **C++ Developer** @ **Shinhan DS** _(08/2018 – 03/2019)_
-
-- Trained and contributed to core banking features using C++ and Oracle.
-
-## 🌟 Featured Projects
-
-| Project                                                                                   | Description                                                                                                                                                                                                 | Stack                      |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [**AI-Powered Bank Statement Analyzer**](https://github.com/minhquan2904/vibe-check-scam) | Rapidly prototyped a fraud detection tool utilizing pure "vibe coding" methodologies. Authored precise system contexts via OpenSpec and orchestrated Antigravity Kit agents to autonomously generate logic. | `AI` `Prompt Engineering`  |
-| **Tech Content Creator** ([TikTok](https://tiktok.com/@motbannamgiauten71))               | Built an automated content production pipeline leveraging Gemini and NotebookLM to generate educational programming videos. Mentoring junior developers with 80/20 rule-based lessons.                      | `Content Pipeline` `GenAI` |
-| [**Digital Garden**](https://minhquan2904.github.io/)                                     | My personal knowledge base and technical blog where I document learnings about Software Engineering, System Architecture, and AI tools.                                                                     | `Documentation` `MkDocs`   |
-| [**LLM Wiki (Second Brain)**](https://github.com/minhquan2904/llm-wiki)                   | Đây là kho tri thức cá nhân / second brain được quản lý và vận hành bởi AI agents.                                                                                                                          | `Knowledge Base` `AI`      |
+**B.S. in Software Engineering** · Ho Chi Minh City University of Technology and Education (HCMUTE)
